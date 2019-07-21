@@ -4,6 +4,7 @@ public class TestString {
 
 	public static void main(String[] args) {
 	
+		//declare in array
 		String a[] ={"raj","thipparaj", "Priya","pavithra"};
 		for(int i=0;i<a.length;i++){
 			
@@ -11,7 +12,7 @@ public class TestString {
 		System.out.println(a[2]);
 		
 
-	
+	/* for each loop concepts to print all value an array */  
 	for(String name:a)
 	{
 		System.out.print(name);

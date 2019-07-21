@@ -4,12 +4,17 @@ public class DataTypes {
 
 	public static void main(String[] args) {
 
+		/*
+		 * Sample first program practice starting...
+		*/
 		// int data type
 		int i =10;
 		i=20;
 		int j=100;
 		int k=200;
 		System.out.println(i);
+		System.out.println(j);
+		System.out.println(k);
 		
 		//double
 		double d=10.235;
